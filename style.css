@@ -1,3 +1,37 @@
-body {
-  background-color: white;
+.orangeback {
+  background-color: blue;
+  font-size:20px;
+  border-style:ridge;
+  text-align:center;
+  padding: 2em 2em 2em 3em;
+  margin: 25px 25px 25px 25px;
+ }
+.blueback {
+  background-color:black;
+  text-align:center;
+  color: black;
+   padding: 2em 2em 2em 3em;
+  margin: 25px 25px 25px 25px;
+  border-style:ridge;
+}
+.greyback {
+  background-color:grey;
+  color: blue;
+}
+.greenback {
+  background-color:green;
+  color:white;
+}
+
+.neutralback
+{
+  background-color:grey;
+  text-align:center;
+  padding: 2em 2em 2em 3em;
+  margin: 25px 25px 25px 25px;
+  border-style:ridge;
+}
+
+div{
+  font-family:Times New Roman
 }
